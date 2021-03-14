@@ -1,0 +1,280 @@
+h1 { 
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bolder;
+    font-size: 150px;
+  
+}
+ .index {
+  background: url(http://thinadhoo.gov.mv/wp-content/uploads/2019/09/181233_3_6e55ac4b5c857d0e93a7911be4d4d60dd5cc93ba_medium.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-origin: border-box;
+  background-size:cover;
+}
+
+
+ 
+ p{
+     text-align: center;
+ font-weight: bold;
+ font-size: xx-large;
+ color: rgb(255, 255, 255);
+
+ }
+ .homegif{
+   width: 500px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+ }
+hr{
+
+        border:dashed #ffedd5 6px;
+        border-bottom: none;
+        width: 55%;
+        margin: 100px auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+      }
+      
+  
+      td{
+        text-align:center;
+        color: black;
+      }
+      tr{
+        text-align: center;
+        color: black;
+      }
+      table{
+      
+      
+     text-align: center;
+      }
+    
+
+    
+
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+.table{
+background-color: lightgray;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  text-align:center;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder ;
+}
+.bas{
+  width: 400px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+display: block;
+}
+li {
+  float:top;
+  float:left;
+  list-style-type: none;
+}
+.basb{
+  text-align: center;
+  background-color:lightyellow;
+  color:rgb(77, 43, 0) ;
+}
+
+a {
+  display: block;
+  padding:10px;
+  background-color: #dddddd;
+}
+.basbas{
+  background-color: lightyellow;
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 25px;
+  color:  rgb(77, 43, 0);
+}
+.arai{
+  border-radius: 30px;
+  text-align: center;
+  border: dashed;
+  border-color: chocolate;
+}
+.lhenpage{
+  text-align: center;
+  color:saddlebrown;
+  background-color: lightgoldenrodyellow;
+}
+.lhenimg{
+  text-align: center;
+}
+.lhentable{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+ 
+
+}
+ .bandhi{
+   border-radius: 30px;
+   border: dashed;
+ margin-right: 20px;
+ border-color: chocolate;
+ }
+.fenboki{
+  border-radius: 30px;
+  border: dashed;
+  border-color: chocolate;
+}
+.bchome{
+  border-radius: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
+.lhenpages{
+  background-color:rgb(255, 255, 255) ;
+
+}
+.ph3{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(51, 214, 51);
+  font-size: 35px;
+}
+.cgif{
+  
+  width: 350px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+}
+.pg{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+.pghome{
+ 
+  border-radius: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 90px;
+}
+.photo{
+text-align: center;
+background-color:rgb(233, 255, 255);
+}
+.picgallery{
+  font-family:sans-serif;
+  color: darkgreen;
+  font-size: 25px;
+}
+.tdp{
+  width: max-content;
+}
+.htory{
+  color: rgb(99, 49, 0);
+  font-family: cursive;
+  font-size: 50px;
+  text-align: center;
+
+}
+.havaru{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.story{
+  text-align: left;
+  color: black;
+ font-size: 20px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.history3{
+  text-align: center;
+  color: brown;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.hstrypage{
+ border: dotted chocolate 4px;
+        border-bottom: none;
+        width: 35%;
+        margin: 100px auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+       
+}
+.storys{
+  text-align: center;
+  color: darkred;
+}
+.istory{
+  text-align: center;
+  color: black;
+  font-size: 25px;
+}
+.enamavid{
+  border-radius: 500px;
+  width: 120px;
+  height: 90px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.hhome{
+  border-radius: 200px;
+  background-color: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.huvadhoo{
+  border-radius: 500px;
+  background-color: none;
+  width: 60px;
+  height: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.nav{
+ border-color:rgb(108, 208, 255);
+
+}
+.formbtn{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 600px;
+}
+.pagelhen{
+  background-color:rgb(255, 209, 148);
+}
+.intouch{
+  background-color: rgb(234, 255, 255);
+}
+.in{
+  color: black;
+  text-align: left;
+  font-size: 20px;
+}
+.high{
+  background-color: rgb(255, 215, 175);
+}
